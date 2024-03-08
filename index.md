@@ -4,7 +4,7 @@
     <td width="75%">
       <h1>胡志旺</h1>
       <p><b>本科生生</b></p>
-      <p><b href="https://zhantianyou.bjtu.edu.cn/" >北京交通大学詹天佑学院</b></p>
+      <p><a href="https://zhantianyou.bjtu.edu.cn/" >北京交通大学詹天佑学院</a></p>
       <p><b>邮箱：3199865352@qq.com</b></p>
       <p><b>地址：北京市海淀区上园村3号北京交通大学大学，东五楼，邮编438200</b></p>
       <p><a href="/index-en.html">English Version（还没写完）</a></p>
